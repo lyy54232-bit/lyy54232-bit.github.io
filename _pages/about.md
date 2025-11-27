@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently an undergraduate student studying at Tsinghua University.
+I'm currently an undergraduate student studying at Tsinghua University, majoring in Mathematics and Physics
 
 
 A data-driven personal website
