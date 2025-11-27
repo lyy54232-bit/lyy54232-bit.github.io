@@ -12,6 +12,7 @@ During my undergraduate study, I am honored to work under the supervision of Pro
 
 My current research interests are in statistical methodological research. In particular, I am interested in probabilistic modeling and interpretable machine learning. I aim to develop novel statistical and machine learning methods that can effectively analyze complex, high-dimensional data and provide insights into real-world problems in fields such as biology, medicine, and social science.
 
+My dream is traveling around the world to see different beautiful scenes and cultures. I am also interested in the historical and social development of my home country, [the PRC](https://en.wikipedia.org/wiki/China). Additionally, [Avicii](https://en.wikipedia.org/wiki/Avicii) is my beloved DJ: his music always encouraged me to walk out from sadness and troubles. 
 
 Getting started
 ======
