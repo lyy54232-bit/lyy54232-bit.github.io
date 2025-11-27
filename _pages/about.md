@@ -8,9 +8,8 @@ redirect_from:
 ---
 I'm currently an undergraduate student studying at Tsinghua University, majoring in Mathematics and Physics. Now. I am applying for a PhD position in statistics or biostatistics for Fall 2026.
 
+During my undergraduate study, I am honored to work under the supervision of Professor [Lin Hou](https://www.stat.tsinghua.edu.cn/en/info/1023/1056.htm) on tandem repeat phasing. This project led me into the field of statistical research. Thanks to Prof. Hou's recommendation, I went to the United States and spent a unforgettable summer at Yale University working under the supervision of Prof. [Xiting Yan](https://medicine.yale.edu/profile/xiting-yan/) on bulk RNA deconvolution with platform effects removal.
 
-Research Interests
-======
 My current research interests are in statistical methodological research. In particular, I am interested in probabilistic modeling and interpretable machine learning. I aim to develop novel statistical and machine learning methods that can effectively analyze complex, high-dimensional data and provide insights into real-world problems in fields such as biology, medicine, and social science.
 
 
