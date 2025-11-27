@@ -14,6 +14,8 @@ My current research interests are in statistical methodological research. In par
 
 My dream is traveling around the world to see different beautiful scenes and cultures. I am also interested in the historical and social development of my home country, [the PRC](https://en.wikipedia.org/wiki/China). Additionally, [Avicii](https://en.wikipedia.org/wiki/Avicii) is my beloved DJ: his music always encouraged me to walk out from sadness and troubles. 
 
+My hometown is [Chongqing](https://en.wikipedia.org/wiki/Chongqing), a prosperous city in Southwestern China. I am glad that my hometown is becoming well-known around the world as a "cyberpunk city". Welcome to Chongqing!
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
