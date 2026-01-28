@@ -1,6 +1,6 @@
 ---
 title: '26fall Application record'
-date: 2026-1-28
+date: 2026-01-27
 permalink: /posts/2012/08/application26fall/
 tags:
   - cool posts
