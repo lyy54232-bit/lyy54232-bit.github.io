@@ -1,14 +1,14 @@
 ---
-title: '26fall Application record'
+title: '26fall Application record(updating)'
 date: 2026-01-28
 permalink: /posts/2026/01/application26fall/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - application
+  - grad-school
+  - 26fall
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+**26fall申请季记录和总结**
 
 Headings are cool
 ======
