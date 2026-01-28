@@ -1,7 +1,7 @@
 ---
 title: '26fall Application record'
-date: 
-permalink: /posts/application26fall/
+date: 2026-1-28
+permalink: /posts/2012/08/application26fall/
 tags:
   - cool posts
   - category1
