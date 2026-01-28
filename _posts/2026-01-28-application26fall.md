@@ -9,11 +9,16 @@ tags:
 ---
 
 **26fall申请季记录和总结**
-
-Headings are cool
 ======
 
-You can have many headings
+一些写在前面的话
+======
+
+个人背景
+======
+
+
+申
 ======
 
 Aren't headings cool?
