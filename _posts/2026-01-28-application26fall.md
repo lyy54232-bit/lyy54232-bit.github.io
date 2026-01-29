@@ -35,8 +35,9 @@ GRE: V153+Q170+AW3.5
 
 申请学校清单
 ------
-共27个phd，2个ms。
 ![Application table](/images/school_list.png)
+
+共27个phd，2个ms。
 
 
 目前申请结果（更新中）
