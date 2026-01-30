@@ -41,18 +41,20 @@ GRE: V153+Q170+AW3.5
 
 目前申请结果（更新中）
 ------
-**2025.12.19** 晚上收到UMN biostat一位老师的邮件，直接拿到了informal offer。始料未及的开局，倒是早早结束了失学的困境。
+**2025.12.19** UMN biostat informal offer. 晚上收到UMN一位老师的邮件的通知"our admissions committee has met and recommended you for admission into our PhD program"。始料未及的开局，倒是早早结束了失学的困境。
 
 **2025.12.24** 与这位老师zoom聊了一下，大概问了一下项目的具体信息，培养方案，当地生活等等。稍微有点尴尬的是正好遇上寝室电路出故障停电，视频一团漆黑。英语自我介绍的时候还卡了一下，真是有点难绷。但后面我们直接用中文聊了，老师还好奇地问了强基书院是什么，在我的说明后，他终于明白这不是个好东西。
 
-**2025.12.29** 晚上接近十二点收到了Duke biostat的邮件，说phd被拒可以免费把材料转去ms项目review，当时就感觉不妙。然后过了十分钟拒信就砸过来了。之前就听说Duke biostat项目缺钱，今年只招三个人，那肯定是没有理由轮到我这个菜鸡（。既然无缘，那就晚安!
+**2025.12.29** Duke biostat rej. 晚上接近十二点收到了Duke biostat的邮件，说phd被拒可以免费把材料转去ms项目review，当时就感觉不妙。然后过了十分钟拒信就砸过来了。之前就听说Duke biostat项目缺钱，今年只招三个人，那肯定是没有理由轮到我这个菜鸡（。既然无缘，那就晚安!
 
-**2026.1.8** 早上起来看到UMN biostat的正式offer。这下算是彻底确定不会失学了。过了两周左右之后收到了funding info，感觉应该能糊口。
+**2026.1.8** UMN biostat official offer. 早上起来看到UMN biostat的正式offer。这下算是彻底确定不会失学了。过了两周左右之后收到了funding info，感觉应该能糊口。
 
-**2026.1.28** 进入一月之后，诸如Yale biostat, Brown biostat, Wisc BDS等phd项目都发了面试，然而我是一个都没有收到，大概率是嗝屁了（虽然还暂时没有发rej）。已经急了。早上起来第一件事当然是看邮箱，然后发现了UMich biostat降录ms。又一个项目完犊子了，虽然这个项目也基本上算是彩票了。
+**2026.1.28** UMich biostat rej (降录ms). 进入一月之后，诸如Yale biostat, Brown biostat, Wisc BDS等phd项目都发了面试，然而我是一个都没有收到，大概率是嗝屁了（虽然还暂时没有发rej）。已经急了。早上起来第一件事当然是看邮箱，然后发现了UMich biostat降录ms。又一个项目完犊子了，虽然这个项目也基本上算是彩票了。
+
+**2026.1.30** UIUC stat interview invitation & UCLA biostat rej. UIUC的面试邀请是一位AP发来的，但是很古怪的是邮件开头只有Hi，并没有称呼我的人名，感觉像是大规模群发养鱼（，一位bg比我强得多的朋友也同时接到了这个AP的面试邀请。这位AP并不是我的poi，我本科做的东西和她也没啥重叠，感觉这把自己就是来走过场的，但是来都来了，总归要试一下。UCLA这边直接发邮件问我要不要进ms项目review，和Duke套路一模一样，只不过还没有正式的rej。但是这就相当于rej了吧（悲
 
 本科三年多来努力提桶跑路的经历
 ------
-
+施工中
 
 
