@@ -1,7 +1,6 @@
 ---
 title: '26fall Application(updating, in Chinese)'
 date: 2026-01-28
-visitor_map: true
 permalink: /posts/2026/01/application26fall/
 tags:
   - application
