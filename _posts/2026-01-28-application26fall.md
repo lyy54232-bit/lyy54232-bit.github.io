@@ -65,6 +65,7 @@ GRE: V153+Q170+AW3.5
   <script
     type="text/javascript"
     id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d=GMCotORcFNHLuDTQ1IjE4hrPomKMbMB6Q4GUWjZt6Jw&cl=ffffff&w=a">
+    src="https://mapmyvisitors.com/map.js?d=GMCotORcFNHLuDTQ1IjE4hrPomKMbMB6Q4GUWjZt6Jw&cl=ffffff&w=a">
   </script>
 </div>
+
