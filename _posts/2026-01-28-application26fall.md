@@ -62,7 +62,5 @@ GRE: V153+Q170+AW3.5
 ------
 施工中
 
-{% if page.visitor_map %}
-  {% include visitor_map.html %}
-{% endif %}
+{% include visitor_map.html %}
 
