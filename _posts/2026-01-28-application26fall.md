@@ -61,11 +61,11 @@ GRE: V153+Q170+AW3.5
 ------
 施工中
 
-<div style="text-align:center; margin: 30px 0;">
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=GMCotORcFNHLuDTQ1IjE4hrPomKMbMB6Q4GUWjZt6Jw&cl=ffffff&w=a">
-  </script>
+<div align="center" style="margin:24px 0;">
+{% raw %}
+<script type="text/javascript" id="mapmyvisitors"
+  src="//mapmyvisitors.com/map.js?d=GMCotORcFNHLuDTQ1IjE4hrPomKMbMB6Q4GUWjZt6Jw&cl=ffffff&w=a" async></script>
+{% endraw %}
 </div>
+
 
