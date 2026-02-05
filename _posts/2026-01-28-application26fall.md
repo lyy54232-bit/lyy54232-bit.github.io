@@ -66,9 +66,9 @@ UW-Madison BDS rej. 没收到面试的时候就知道了，但是看到拒信还
 
 Stanford stat rej. 很脆的拒，这彩票不可能抽得到（
 
-UCI stat interview. 没问research，更像托福口语。面试15min，问了一些类似于Personal Statement方面的问题，比如Why school, Why phd等等，气氛还不错，但是不知道最后结果如何。
+UCI stat interview. 早上七点多面的，对面两位老师。没问research，更像托福口语。面试15min，问了一些类似于Personal Statement方面的问题，比如Why school, Why phd等等，气氛还不错，但是不知道最后结果如何。
 
-UIUC stat interview. 晚上面完再更（
+UIUC stat interview. 对面老师是一位很温柔的大姐姐（。先是简单的自我介绍，然后是问了几个概念问题（这位老师是做博弈论的，可能对随机过程有一些偏爱，随机过程的问题偏多）。然后是我提问的环节，最后问了问我的offer情况（这个老师说可以不用回答）。我说除了一个offer，其他全是rej，她安慰我很正常。总而言之，面试气氛挺轻松的，老师人真的很好。
 
 
 本科三年多来努力提桶跑路的经历
