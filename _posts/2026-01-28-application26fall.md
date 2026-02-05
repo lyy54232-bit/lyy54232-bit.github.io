@@ -60,6 +60,13 @@ GRE: V153+Q170+AW3.5
 
 **2026.2.4** UMich stat rej. 唯有叹息。虽然也在意料之中，但还是有些难过。
 
+**2026.2.5** 今天信息量有点大，下面分别列一下：
+UW-Madison BDS rej. 没收到面试的时候就知道了，但是看到拒信还是有点失落。
+Stanford stat rej. 很脆的拒，这彩票不可能抽得到（
+UCI stat interview. 没问research，更像托福口语。面试15min，问了一些类似于Personal Statement方面的问题，比如Why school, Why phd等等，气氛还不错，但是不知道最后结果如何。
+UIUC stat interview. 晚上面完再更（
+
+
 本科三年多来努力提桶跑路的经历
 ------
 施工中
