@@ -94,6 +94,19 @@ UNC STOR interview. 直接用中文聊的，确实很informal. 老师疑似和�
 
 **2026.2.21** UW-Madison stat rej. 我最想去的学校之一，盼了很久，最后就这么被拒掉了。前一天上午有个朋友找我说申请系统页面变了，TA的截图显示TA已经拿到了offer。然而我上去检查发现我的页面仅仅只是等待final decision，就知道完蛋了。第二天凌晨收到rej。因为被朋友无意间贴脸，还有其它很多原因，真的非常失落。凌晨一点多更新了这段文字，Emo得睡不着觉。
 
+没睡多久，早上起来邮箱直接炸锅了，又来了四个消息：
+
+Yale biostat rej. 没收到面试就知道了。现在想起来虽然日子很无聊，治安也不好，但是还挺怀念New Haven生活的三个月时光的。终究是无缘再会。
+
+Northwestern stat wl. 难绷了，他们今年似乎发了一箩筐wl，感觉转正希望渺茫（
+
+Rutgers stat informal offer(?). 问我是否还有兴趣。原文是It is "highly likely" (although not completely guaranteed at this point of time) that we will be able to send you an offer. 用词可以说是很谨慎了。Rutgers虽然专排和综排都不高，但是据说实力很强，发展也很好，再加上位置不错，还是可以考虑的。
+
+UW stat ms offer. 没啥说的，拿来保底的，应该很快decline了。
+
+
+
+
 本科三年多来努力提桶跑路的经历
 ------
 施工中
