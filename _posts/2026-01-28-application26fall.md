@@ -102,7 +102,7 @@ Northwestern stat wl. 难绷了，他们今年似乎发了一箩筐wl，感觉�
 
 Rutgers stat informal offer(?). 问我是否还有兴趣。原文是It is "highly likely" (although not completely guaranteed at this point of time) that we will be able to send you an offer. 用词可以说是很谨慎了。Rutgers虽然专排和综排都不高，但是据说实力很强，发展也很好，再加上位置不错，还是可以考虑的。
 
-UW stat ms offer. 没啥说的，拿来保底的，应该很快decline了。
+UW stat ms offer. 没啥说的，拿来保底的。在2.24 decline了这个offer。
 
 
 
