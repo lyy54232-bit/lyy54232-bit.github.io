@@ -100,12 +100,15 @@ Yale biostat rej. 没收到面试就知道了。现在想起来虽然日子很�
 
 Northwestern stat wl. 难绷了，他们今年似乎发了一箩筐wl，感觉转正希望渺茫（
 
-Rutgers stat informal offer(?). 问我是否还有兴趣。原文是It is "highly likely" (although not completely guaranteed at this point of time) that we will be able to send you an offer. 用词可以说是很谨慎了。Rutgers虽然专排和综排都不高，但是据说实力很强，发展也很好，再加上位置不错，还是可以考虑的。
+Rutgers stat informal offer(?). 问我是否还有兴趣。原文是It is "highly likely" (although not completely guaranteed at this point of time) that we will be able to send you an offer. 用词可以说是很谨慎了。Rutgers虽然专排和综排都不高，但是据说学术实力很强，发展也很好，再加上位置不错，还是很感兴趣的。
 
-UW stat ms offer. 没啥说的，拿来保底的。在2.24 decline了这个offer。
+UW stat ms offer. 没啥说的，拿来保底的。很快decline.
 
+**2026.2.24** decline了UW stat ms,说不定还有人在wl里面等着呢。
 
+问了问Northwestern负责招生的老师关于我在wl里的位置，回复是前1/5。但是他们今年wl好像特别多，光是在xhs上好像就看到3个，有点流汗黄豆了。
 
+**2026.2.25** UIUC stat offer. 早上七点多突然醒了，随手看了一下手机就发现了。这个项目一直还是有些期待的，毕竟还是有点综排战士的属性，而且他们学校CS好，说不定能做一些交叉的东西。但是又听说他们系最近走掉了很多老师，系里有些动荡，有些担心。钱给的不多，但是UIUC的生活成本应该不高。
 
 本科三年多来努力提桶跑路的经历
 ------
