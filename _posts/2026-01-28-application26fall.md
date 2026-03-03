@@ -114,6 +114,8 @@ UW stat ms offer. 没啥说的，拿来保底的。很快decline.
 
 **2026.2.27** UIUC和Rutgers的portal更新，下了正式offer。但是因为家里的阻力，Rutgers再想去估计也没法去了，叹气。
 
+**2026.3.2** OSU stat offer. 保底的学校，但是发的有点晚了。应该很快decline. Rutgers的funding info出来了，给的相当不错，但是是不可能去了。
+
 本科三年多来努力提桶跑路的经历
 ------
 施工中
