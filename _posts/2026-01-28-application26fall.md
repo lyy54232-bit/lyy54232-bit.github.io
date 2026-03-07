@@ -116,6 +116,8 @@ UW stat ms offer. 没啥说的，拿来保底的。很快decline.
 
 **2026.3.2** OSU stat offer. 保底的学校，但是发的有点晚了。应该很快decline. 
 
+**2026.3.7** withdraw ISU. 他们学校已经发offer了，但是我这里没动静（。今天突然想起来了。既然有更好的学校了，那就先跑路了。下周准备发个邮件再把OSU啥的decline了。
+
 Rutgers的funding info出来了，给的相当不错，但是是不可能去了。
 
 本科三年多来努力提桶跑路的经历
