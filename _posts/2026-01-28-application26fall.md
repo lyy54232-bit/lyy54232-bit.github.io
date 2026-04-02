@@ -136,9 +136,10 @@ PSU stat offer. 从wl上下来了。在几天前，负责招生的老师加了�
 
 **2026.3.28** Columbia stat wl. 他们三月初发了一些offer和wl，我还以为这项目已经嗝屁了，今天通知我还吊在wl上是何意味。原文是"a short wait list for the program"，我倒是很好奇这有多short。
 
+decline Brown biostat ScM. 今天发现他们系统突然可以decline了。
+
 **2026.4.1** UCD stat rej. 这项目终于肯发rej了，之前面试和offer我一点消息都没有。
 
-decline Brown biostat ScM. 今天发现他们系统突然可以decline了。
 
 本科三年多来努力提桶跑路的经历
 ------
