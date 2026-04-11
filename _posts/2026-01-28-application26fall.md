@@ -142,6 +142,8 @@ decline Brown biostat ScM. 今天发现他们系统突然可以decline了。
 
 **2026.4.3** decline UPenn AMCS MA.
 
+**2026.4.11** UPenn stat rej. 终于肯发了吗
+
 本科三年多来努力提桶跑路的经历
 ------
 施工中
