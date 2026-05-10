@@ -36,7 +36,7 @@ GRE: V153+Q170+AW3.5
 
 申请学校清单
 ------
-![Application table](/images/school_list.png)
+![Application table](/images/final_school_list_post.png)
 
 共27个phd，2个master。这个分层只是根据我的偏好和项目的属性（学校是否在美国，是phd还是master）归了一下类，不是严格的实力排名。
 
