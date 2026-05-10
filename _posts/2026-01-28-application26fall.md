@@ -146,7 +146,17 @@ decline Brown biostat ScM. 今天发现他们系统突然可以decline了。
 
 **2026.4.13** 4.11中午疙瘩DGS发邮件问我是否还有兴趣，那肯定是有而且是top choice。他说还有一个人没接offer，而我是wl top2。当时想是不是还有点戏，但是今天DGS说他们招满了，痛失彩票。
 
-晚上被疙瘩拒掉之后火速接了UIUC，申请季结束了。
+晚上被疙瘩拒掉之后火速接了UIUC，申请季结束了。同时decline了剩下的所有学校。
+
+虽然已经接了offer，但还是更新一下后面几个timeline。
+
+**2026.4.16** Columbia stat rej. portal的正式更新。
+
+UNC stor rej. 面试之后第一个消息就是拒信，难绷。
+
+**2026.4.17** UCI stat rej. 也是面试之后石沉大海。
+
+**2026.4.19** UofT stat rej. 终于肯发拒信了。
 
 本科三年多来努力提桶跑路的经历
 ------
