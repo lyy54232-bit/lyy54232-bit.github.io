@@ -278,7 +278,7 @@ UNC stor rej. 面试之后第一个消息就是拒信，难绷。
 
 写在最后
 ------
-大概就是一个致谢环节。转专业申请还是一个比较繁杂的过程的，对我这种本科没法转专业的，更是一场漫长的拉锯战，要扛着各种限制去达成各种目标。苦是吃了不少的，破防也是破过很多次的，是靠各位转统圈子的朋友的支持我才能坚持过来，这里我想一一向他们表达感谢。它们分别是[Xieheng Wang](https://mariana2000.github.io/), [Tuorui Peng](https://v1ncent19.github.io/), [Feiyan Ma](https://chiyuru.github.io/about/), [Suqing Liu](https://lsq0000.github.io/), [Mengxiao Gao](https://lsq0000.github.io/), Shuang Chen, Rui Liu, Yiman Fong. 此外也非常感谢我的两位老板以及帮我写推荐信的dwl老师，感谢我的父母和家人，感谢在中学认识的好友们。当然最后，还要感谢那个永不屈服的自己。请相信自己的努力不会被辜负。
+大概就是一个致谢环节。转专业申请还是一个比较繁杂的过程的，对我这种本科没法转专业的，更是一场漫长的拉锯战，要扛着各种限制去达成各种目标。苦是吃了不少的，破防也是破过很多次的，是靠各位转统圈子的朋友的支持我才能坚持过来，这里我想一一向他们表达感谢。他们分别是[Xieheng Wang](https://mariana2000.github.io/), [Tuorui Peng](https://v1ncent19.github.io/), [Feiyan Ma](https://chiyuru.github.io/about/), [Suqing Liu](https://lsq0000.github.io/), [Mengxiao Gao](https://lsq0000.github.io/), Shuang Chen, Rui Liu, Yiman Fong. 此外也非常感谢我的两位老板以及帮我写推荐信的dwl老师，感谢我的父母和家人，感谢在中学认识的好友们。当然最后，还要感谢那个永不屈服的自己。请相信自己的努力不会被辜负。
 
 
 
