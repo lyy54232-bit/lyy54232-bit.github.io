@@ -210,7 +210,7 @@ UNC stor rej. 面试之后第一个消息就是拒信，难绷。
 
 锐评项目环节
 ------
-本段仅基于本人了解的一些信息和主观印象锐评一下某些项目，可能会有bias，大家看个乐就好，如果要参考的话，可以配合其他前辈的评价交叉验证食用
+本段仅基于本人了解的一些信息和主观印象锐评一下申请的这些项目，可能会有bias，大家看个乐就好，如果要参考的话，可以配合其他前辈的评价交叉验证食用。
 
 以下按2026USnews[统计专业排名](https://www.usnews.com/best-graduate-schools/top-science-schools/statistics-rankings)和[生统专业排名](https://www.usnews.com/best-graduate-schools/top-science-schools/biostatistics-rankings?_sort=rank-asc)项目排名从高到低（括号内为排名）：
 
@@ -228,7 +228,7 @@ UNC stor rej. 面试之后第一个消息就是拒信，难绷。
 
 **University of California, Davis(12)** UCD统计的学术实力认可度一直很高，系很大，方向也挺全面的，再加上加州的地理位置也是很有吸引力。去年在你清招了一个，但是funding够不够花存疑。申请难度不明。
 
-**University of Wisconsin, Madison(12)** 算是我的梦校了，可能是有一个朋友在那里读本科的缘故，看久了他发的朋友圈风景也对这个学校也有了一些好感。他们统计系和CS系联系很紧密，交叉机会感觉很多，系规模也不小，方向很全面。学校地理位置上隔Chicago也不算远，学校就在湖边，风景很不错，我的暑研老板评价是“世外桃源”。此外学校的综排也还行，评价是小六边形战士。被拒导致我出现了申请季里最大的情感波动。他们项目近两年的财政情况似乎都不太好，名额相较于24fall有一定的削减，但是如果能去的话是非常好的。
+**University of Wisconsin, Madison(12)** 算是我的梦校了，可能是有一个朋友在那里读本科的缘故，看久了他发的朋友圈风景也对这个学校也有了一些好感。他们统计系和CS系联系很紧密，交叉机会感觉很多，系规模也不小，方向很全面。**值得一提的是他们项目有两个track，分别是statistics track和biostatistics track。但是在官方的解释里这两个track申请时是一起考虑评审的，并且入学后内部完全互通，可以视作一个项目**。学校地理位置上隔Chicago也不算远，学校就在湖边，风景很不错，我的暑研老板评价是“世外桃源”。此外学校的综排也还行，评价是小六边形战士。被拒导致我出现了申请季里最大的情感波动。他们项目近两年的财政情况似乎都不太好，名额相较于24fall有一定的削减，但是如果能去的话是非常好的。
 
 **University of North Carolina, Chapel Hill(16)** UNC这个项目全称是Statistics & Operations Research，简称STOR，是统计和运筹合在一起的。如果想去交叉交叉运筹相关的科研可以考虑申请一下。北卡的生活据说很舒适，气候不错，附近也有不少tech和药厂，可以提供一定的机会和资源。但是缺点是交通可能略微有些不便。他们的项目申请难度比较迷。
 
@@ -242,7 +242,7 @@ UNC stor rej. 面试之后第一个消息就是拒信，难绷。
 
 **University of California, Irvine(22)** UCI各方面的条件都没有什么短板，学术水平、地理位置、资源和机会等等都很好，QS综排稍有一些逊色（**你问我为什么一直要讲QS综排？我也知道这个玩意很水，但是要回国找工作就是得看这东西，我也很无奈**）但是小道消息说他们项目今年只招一个国际生，难度自然是极高。他们项目的面试也和其他学校不太一样，问的问题和科研完全无关，都是诸如why phd, why statistics, 还有如何克服困难等等，倒是很有加州特色。面试完之后我没有得到任何消息，直到4.15之后才发了拒信。 
 
-**University of Minnesota, Twin Cities(22)** UMN是底蕴深厚的知名统计强校，学术声誉很好。但是这项目今年刚更新的USnews专业排名直接从11掉到了22，可以说是断崖式下跌，原因不明。UMN的统计系规模不算大，每年大概招收10个左右的phd，总体方向比较传统，但是也有做AI相关的老师。今年申请的学生有无面录取，但是我是受到了面试邀请的。缺点就是Minneapolis虽然不村，但确实冷的有点过分了。此外QS排名200+，回国稍有点吃亏。但总体上我是觉得很不错的。
+**University of Minnesota, Twin Cities(22)** UMN是底蕴深厚的知名统计强校，学术声誉很好。但是这项目今年刚更新的USnews专业排名直接从11掉到了22，可以说是断崖式下跌，原因不明。UMN的统计系规模不算大，每年大概招收10个左右的phd，总体方向比较传统，但是也有做AI相关的老师。今年申请的学生有无面录取，但是我是面试过的。缺点就是Minneapolis虽然不村，但确实冷的有点过分了。此外QS排名200+，回国稍有点吃亏。但总体上我是觉得很不错的。
 
 **Ohio State University(27)** OSU和前几个提到的ISU，PSU差不多，都是州立里统计特长的学校（除此之外还有MSU和CSU）。但我确实没有那么了解这个项目，记得当时写SOP的时候，从系主页挑勉强符合兴趣的老师都花了好半天时间。如果不缺推荐信还是申一下吧。
 
@@ -252,11 +252,33 @@ UNC stor rej. 面试之后第一个消息就是拒信，难绷。
 
 **University of Toronto** UofT纯粹是怕美国去不了申的，但是他们项目申请难度似乎非常高，应该也需要陶瓷。
 
-**National University of Singapore** 申请NUS的理由同上。按理来说NUS应该很好申到的，但是今年我至今没有任何消息，面试也没有，他们的offer发得也很晚。据说他们funding出了问题，并且需要平衡中国人的比例。
+**National University of Singapore** 申请NUS的理由同上。按理来说NUS应该很好申到的，但是我至今没有任何消息，面试也没有，他们的offer发得也很晚。据说他们funding出了问题，并且需要平衡中国人的比例。
 
 **Biostatistics**
 
-<!-- [Tuorui Peng](https://mariana2000.github.io/), [Feiyan Ma](https://chiyuru.github.io/about/), [Suqing Liu](https://lsq0000.github.io/), [Mengxiao Gao](https://lsq0000.github.io/) -->
+虽然我两段科研做的都是biostat相关，但在我这里biostat总体上来说还是不如stat的，毕竟stat的应用面更宽一些，方向也更多。对我个人而言，我是不太希望被早早限制住方向的。此外biostat的申请也因为近年funding的大砍难度暴增，stat相比而言还是更加稳定。
+
+**University of Michigan, Ann Arbor(4)** UMich的生统系很大，faculty非常多且方向全面，他们之前每年可能会招二三十个phd，有很大一部分是本校ms。这两年因为众所周知的原因，biostat这边funding炸了，名额好像也是缩减的很厉害。他们的ms前几年经历了大扩招，门槛低了很多，但是又确确实实有本校转博的机会（当然是需要卷卷卷）。至于phd的申请这边，他们是分多批次逐步筛人，筛掉的人基本上都会offer一个ms机会（毕竟是可以赚钱的）。
+ 
+**University of North Carolina, Chapel Hill(4)** UNC生统也是顶中顶，一直都是top梯队。按纸面上的数据评估我应该去UNC biostat这个项目的，但是有几个特殊的地方需要提一下。首先我是属于boss直聘，**并且UNC这个项目是需要老师用自己的钱给学生发RA工资**，这意味着我进去之后基本上就是和这位老师捆绑5年的状态。并且很重要的是这位老师的方向我不是特别感兴趣。此外，**从去年开始，这个项目就宣称不会帮学生付州外学费了**（真是穷疯了），这意味着如果老师不愿意负担这一部分，你就要每年自费1-2w刀去解决这个问题，这确实有点抽象的（但是联系我的那位老师承诺可以帮忙承担）。综上所述我最后还是decline掉了。但是单纯从学术实力上来说，UNC的这个项目完全没的黑。
+
+**University of California, Los Angeles(8)** UCLA的名气肯定不用多说，他们的biostat项目也很强。但是他们系里具体的情况我不是很了解，网上好像讨论的也不算多。我是在SOPHAS系统上看到顺便就申了。但是他们学校的申请费真的好贵，需要在SOPHAS系统和UCLA系统各交一次申请费，合计两百多刀，真有点肉痛吧。最后二话不说给了个降录，麻了。
+
+**University of Minnesota, Twin Cities(11)** UMN的生统项目声誉也非常好，但是系不算很大，方向好像比较传统。但是申请中我接触到了的这个项目的faculty，staff和在读的学生都非常热情而supportive，给我非常好的印象。他们发offer应该是最早的那一批，而且对陆本也比较友好，我会很推荐这个项目。
+
+**University of Wisconsin, Madison(11)** 需要注意的是UW-Madison在biostat这边有两个相关的项目，一个是BDS(Biomedical Data Science)，一个是stat项目的biostatistics track。前者是一个单独的系开设的项目，后面一个属于stat项目。后者已经在前面提过，这里主要讲前者。这个项目基本上就是纯生统项目，也有不少统计系做bio相关的老师在这边挂名，也和CS有合作（感觉stat,CS,BDS这三个项目联系非常紧密）。与stat项目不一样，BDS是有面试的。除此之外小红书上有一位BDS的老师，搜索Wisc BDS项目名称应该是能看到他发的相关帖子，里面有不少信息可供参考。每年的申请季这位老师应该都会发相关的帖子，可以去评论区直接询问。
+
+**Duke University(13)** 不仅是学术名校还是篮球名校（。他们的统计系大部分集中在bayes，方向有点专所以没申（当然也大概率被拒）。生统这边就是做什么的都有，而且好像对陆本还算友好。但是他们因为funding问题这两年招的学生都非常非常少，似乎25fall和26fall加起来都不到10个人。此外学校地处北卡的Durham，据说治安不太好。
+
+**Yale University(13)** 我做暑研的地方，坐落在Connecticut的沿海小城New Haven。虽然这里治安也很糟糕，但我还是非常喜欢这个地方的，毕竟还是留下了一些回忆。Yale的医学院和公共卫生学院非常大，里面有不少做bioinfo，biostat和comp bio相关的老师，也有诸如Hongyu Zhao老师等大牛。据我的暑研老板说，他们的biostat项目也算是强prof制。和UNC一样，Yale这个项目的老师要负责出钱发RA工资养活博士生，所以只有手里有钱的老师能招学生（而我的老板不在此列）。招生的方式是如果老师看中了一位学生（一般还是通过暑研），就联系comittee，然后comittee就会给这位学生发出面试邀请。如果面试不出大茬子，那就直接录取。所以说如果想来的话，最好套一套这边的暑研。stat那边我不太了解，据说做的偏理论。此外Yale只能申请一个项目，申请哪个项目需要根据自己的兴趣做决定。
+
+**University of Pittsburgh(16)** UPitts的医学院也很大，所以biostat实力强也不奇怪，他们系规模也不小，里面还是有几个我比较感兴趣的老师的。但是他们真的是养鱼大户，不知道发了多长的wl，我中途就跑路了。
+
+**Brown University(17)** 藤校，坐落在罗德岛的Providence。生统系规模小，我SOP写感兴趣的老师也挑了半天才勉强凑出来3个。但是好歹是藤校。他们的ms项目好像招的也不多，会有一定比例的学费减免，只能说聊胜于无，申博似乎也一般。
+
+写在最后
+------
+大概就是一个致谢环节。转专业申请还是一个比较繁杂的过程的，对我这种本科没法转专业的，更是一场漫长的拉锯战，要扛着各种限制去达成各种目标。苦是吃了不少的，破防也是破过很多次的，是靠各位转统圈子的朋友的支持我才能坚持过来，这里我想一一向他们表达感谢。它们分别是[Xieheng Wang](https://mariana2000.github.io/), [Tuorui Peng](https://v1ncent19.github.io/), [Feiyan Ma](https://chiyuru.github.io/about/), [Suqing Liu](https://lsq0000.github.io/), [Mengxiao Gao](https://lsq0000.github.io/), Shuang Chen, Rui Liu, Yiman Fong. 此外也非常感谢我的两位老板以及帮我写推荐信的dwl老师，感谢我的父母和家人，感谢在中学认识的好友们。当然最后，还要感谢那个永不屈服的自己。请相信自己的努力不会被辜负。
 
 
 
