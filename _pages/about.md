@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently an undergraduate student studying at Tsinghua University, majoring in Mathematics and Physics + Civil Engineering and Systems. I will join the [Statistics PhD program at the University of Illinois Urbana-Champaign(UIUC)](https://stat.illinois.edu/academics/graduate-programs/phd-statistics) in Fall 2026.
+I'm currently a PhD student in statistics at the University of Illinois, Urbana-Champaign. I completed my undergraduate study at Tsinghua University.
 
 During my undergraduate study, I am honored to work under the supervision of Professor [Lin Hou](https://www.stat.tsinghua.edu.cn/en/info/1023/1056.htm) on tandem repeat phasing. This project led me into the field of statistical research. Thanks to Prof. Hou's recommendation, I went to the United States and spent a unforgettable summer at Yale University working under the supervision of Prof. [Xiting Yan](https://medicine.yale.edu/profile/xiting-yan/) on bulk RNA deconvolution with platform effects removal.
 
